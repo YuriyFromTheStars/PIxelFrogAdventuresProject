@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Pixel Adventure 1/Scenes/GameScenes/LevelOne.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Pixel Adventure 1/Scenes/GameScenes/LevelTwo.unity
+    guid: cb34909ec8618c941b92c51afc139ea0
+  - enabled: 1
+    path: Assets/Pixel Adventure 1/Scenes/GameScenes/LevelThree.unity
+    guid: 2e1a97ad50e683943b470f6ba293e174
+  - enabled: 1
+    path: Assets/Pixel Adventure 1/Scenes/GameScenes/LevelFour.unity
+    guid: 6af23dc990523a34b947e732dd2c7f2f
+  - enabled: 1
+    path: Assets/Pixel Adventure 1/Scenes/GameScenes/LevelFive.unity
+    guid: 12a699b2d1c868b48a7da8b6d247a482
+  - enabled: 1
+    path: Assets/Pixel Adventure 1/Scenes/GameScenes/LevelSix.unity
+    guid: efc45545d161f064a9b2fde892e789ce
+  - enabled: 1
+    path: Assets/Pixel Adventure 1/Scenes/GameScenes/LevelSeven.unity
+    guid: fecce429df7db5541af928516d6f9544
+  m_configObjects: {}
